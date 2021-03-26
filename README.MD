@@ -28,14 +28,3 @@ cd C:/Users/ashutosh/IdeaProjects/UnifiedBankStatement
 C:\Users\ashutosh\AppData\Local\Programs\Python\Python38\python.exe C:/Users/ashutosh/IdeaProjects/UnifiedBankStatement/main.py
 
 target file will be saved in C:/Users/ashutosh/IdeaProjects/UnifiedBankStatement/UnifiedTrxOutput
-
-
-
-### output of unified bank statement
-bank_code,trx_date,trx_type,amounts,to,from
-bank1,01 Oct 2019,remove,99.20,182,198
-bank1,02 Oct 2019,add,2000.10,198,188
-bank2,03 Oct 2019,remove,99.40,182,198
-bank2,04 Oct 2019,add,2123.50,198,188
-bank3,05 Oct 2019,remove,5.07,182,198
-bank3,06 Oct 2019,add,1060.08,198,188
